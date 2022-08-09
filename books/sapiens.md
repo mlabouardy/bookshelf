@@ -1,16 +1,138 @@
-## Sapiens
+# Sapiens
 
-<img src="https://global-uploads.webflow.com/61cb87c1189790ed10f7936d/61cb87c11897908692f79605_btn-amazon.svg">
-<img src="https://global-uploads.webflow.com/61cb87c1189790ed10f7936d/61cb87c1189790c448f79604_btn-apple.svg">
-
-*Recommended by:*
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=mlabouardy/komiser)
+<img src="https://global-uploads.webflow.com/61cb87c1189790ed10f7936d/61cb87c11897908692f79605_btn-amazon.svg" width="100px">
+<img src="https://global-uploads.webflow.com/61cb87c1189790ed10f7936d/61cb87c1189790c448f79604_btn-apple.svg" width="120px">
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg" width="200" align="right" alt="Amp Logo">
 
-## Summary
+## Highlights
 
-sqsqssqsq
+This is my book summary of Sapiens by Yuval Noah Harari. My notes are informal and often contain quotes from the book as well as my own thoughts. This summary also includes key lessons and important passages from the book.
+
+-   Human cultures began to take shape about 70,000 years ago.
+-   There have been three major revolutions in human history: the cognitive revolution, the agricultural revolution, and the scientific revolution.
+-   Prehistoric humans (2 million years old or so) were no more important and impressive than other mammals.
+-   Homo Sapiens means "wise man."
+-   Humans first evolved in Africa about 2.5 million years ago.
+-   The author believes it is unlikely Homo sapiens will survive for another 1,000 years.
+-   From about 2 million years ago until 10,000 years ago, multiple human species roamed the earth together. The depiction of man evolving from hunched over to upright incorrectly displays human evolution as a linear trajectory. In fact, the species lived simultaneously.
+-   Humans have huge brains for their body size.
+-   Human brains account for 2-3 percent of body size, but use 25 percent of energy.
+-   Human kind was very much in the middle of the food chain until 400,000 years ago and didn't leap to the top of the food chain until 100,000 years ago.
+-   Most animals at the top of the food chain made it there gradually over millions of years. Humans, however, jumped to the top relatively rapidly. This means that the rest of the food chain wasn't ready and neither were we. Hence we feel anxious and stressed because we aren't used to being at the top.
+-   The advent of fire and cooking food may have opened the way for the evolution of a smaller intestinal track and a larger brain.
+-   There are two theories of how Homo sapiens evolved: Interbreeding theory and Replacement theory. The reality is probably a combination of both theories.
+-   Perhaps this is why Homo sapiens wiped out the Neanderthals: "They were too familiar to ignore, but too different to tolerate."
+-   The last dwarf species of humans died out 12,000 years ago.
+-   Homo sapiens conquered the world because of its unique language.
+-   The Cognitive Revolution occurred between 70,000 to 30,000 years ago. It allowed Homo sapiens to communicate at a level never seen before in language.
+-   As far as we know, only Homo sapiens can talk about things we have never seen, touched, or smelled. Think religions, myths, legends, and fantasies.
+-   The telling of myths and stories allow Homo sapiens to collaborate in large numbers in extremely flexible ways. This separates us from all other animals.
+-   Chimps can't form groups of more than 50 or so. For humans, the group size is usually 150 or so. Beyond that, you can't rely on gossip and personal communication. You need something more to get large numbers of people working together.
+-   Large numbers of people can collaborate by sharing common myths and beliefs.
+-   In academic circles, stories are known as fictions, social constructs, or imagined realities.
+-   An imagined reality is not a lie because the entire group believes it.
+-   Ever since the Cognitive Revolution, humans have been living in a dual reality: the physical reality and the imagined reality.
+-   The way people cooperate can be changed by changing the stories as myths we tell.
+-   Because Homo sapiens shared myths were not genetically based, they could adapt and change their behavior as soon as they adapted their new belief. They didn't have to wait millions of years for a genetic change.
+-   Homo sapiens are the only animals that conduct trade.
+-   As far as we know, the humans of 30,000 years ago had the same physical, emotional, and intellectual capabilities that we have today.
+-   Evolutionary psychology claims that most of our psychology was developed during the period before the Agricultural Revolution about 10,000 years ago.
+-   The instinct to gorge on high calorie food is wired into our DNA.
+-   Ever since the Agricultural Revolution, there hasn't been one predominant way of life for all humans. There have only been options from a variety of cultures.
+-   The dog was the first animal domesticated by humans around 15,000 years ago.
+-   In ancient human groups (over 10,000 years ago) there was very little privacy, but also very little loneliness.
+-   Most of our ancient ancestors had much wider and deeper knowledge of their physical surroundings than we do. They were not unintelligent at all.
+-   The human collective today knows far more overall than the whole population of 15,000 years ago. However, at the individual level we are much more specialized today. Ancient foragers were the most knowledgable and skillful people in history.
+-   It is far easier to pass "unremarkable" genes along today than it was 10,000 years ago.
+-   Our lack of knowledge about prehistoric religions and beliefs is one of the biggest holes in our understanding of human history.
+-   Humans traveling across the sea and landing in Australia was one of the most important expeditions in history. It marked the moment humans cemented themselves at the top of the food chain.
+-   Homo sapiens first made it to America about 16,000 years ago.
+-   The settling of America -- across the Siberian peninsula through Alaska into Canada and the United States down through Mexico and Central America into the Andes and the Amazon and all the way to the tip of South America -- was one of the most rapid and incredible invasions by a single species the world had ever seen.
+-   Incredibly, the Agricultural Revolution sprang up independently in many different parts of the world.
+-   There is no evidence modern humans have become more intelligent with time.
+-   The Agricultural Revolution actually didn't make the life of the average human better at first. It did, however, allow humans to collect more food per unit area and thus the overall population multiplied exponentially.
+-   Fascinatingly, the first few thousand years of the Agricultural Revolution actually made life harder for humans by creating more work, less leisure, and a ballooning population that created more mouths to feed. Each individual generation didn't see how their life was becoming worse because the small changes were so tiny.
+-   One of history's few iron laws is that luxuries tend to become necessities and to spawn new obligations. Once people begin to enjoy new luxuries they tend to become expected and then count on them.
+-   The evolutionary success of the Agricultural Revolution (greater population) was actually cause for much suffering on the individual level. Not just for humans, but for domesticated animals like cows, sheep, and chickens as well.
+-   The advent of the Agricultural Revolution marked the time when worries of the future became prevalent: the weather, the crop yield this year, etc.
+-   The myths that surround us and make up our lives dictate so much of what we believe and what we do.
+-   Like the ancient Egyptians, most people dedicate their lives to building pyramids. It's just that the names, shapes, and sizes of the pyramids change from one culture to another.
+-   In order to change the imagined order, you must first find a group that believes in a current imagined order. New myths must build upon or evolve from previous myths.
+-   The main purpose of writing is to record numbers, which our brains did not evolve to manage well. Our brains are much better at remembering biological, zoological, and social information.
+-   There is an ancient writing system used by the Incas known as a quipu. They are not written words at all, but a series of knots of different colors and strings that represent words and numbers.
+-   Writing has actually changed the way humans think. We can use writing and record keeping to think far more categorically than ever before.
+-   Numbers are the world's most prevalent language.
+-   Social hierarchies, inequality, and so on are human inventions.
+-   Most rich people are rich because they were born into rich families. Most poor people are poor because they were born into poor families.
+-   Unjust discrimination often gets worse, not better, with time.
+-   As of 2006, there were still 53 countries where a husband could not be legally prosecuted for raping his wife.
+-   When it comes to gender inequality: biology enables, culture forbids. The idea of "unnatural" behaviors is actually a result of Christian theology, not biology.
+-   If it is possible biologically, then it is natural. From a scientific perspective, two men having sex is natural. Traveling at the speed of light is not natural.
+-   Why are men valued in many cultures more than women?
+-   All human cultures are filled with inconsistencies. For example, America currently values individual freedom and equality. But these two ideals don't always play nicely. It is part of the human experience to reconcile them. These inconsistencies aren't necessarily bad. They force us to think critically. Consistency is the playground of dull minds.
+-   History is moving relentlessly toward unity. The whole planet is moving toward one world culture.
+-   The creation of money was purely an intellectual revolution. It doesn't exist except in our minds.
+-   More than 90 percent of all money is just electronic data, not physical money.
+-   Everyone always wants money precisely because everyone else always wants money.
+-   Empires have been the world's most common form of political organization for the last 2,500 years.
+-   In general, empires do not fall because of uprisings. They almost always succumb to outside invasion or splits from within the empower class.
+-   Most of what we firmly believe is part of "our culture" was actually forced upon us by other empires who conquered our ancestors.
+-   Despite the obvious negatives of empires taking over a culture, there are many benefits too. Art, music, governance, and more are the result of empires forming. Often, they blended new together with the conquered people to create a new culture.
+-   It seems obvious that we are moving fast toward a singe global empire. Global markets, global warming, and commonly accepted concepts like human rights make it clear we all need one collective entity, not man states and countries.
+-   Religion is the third great unifier of humankind, alongside money and empires.
+-   The Agricultural Revolution was accompanied by a Religious Revolution.
+-   Interestingly, polytheism is more open and accepting of multiple beliefs even though we often look at it as more barbarian and uneducated than our current beliefs.
+-   Monotheism seems to push away polytheism, but actually is very similar to polytheistic gods with the use of patron saints. Praying to the patron saints of farmers isn't much different than praying to the god of rain.
+-   The central tension with monotheism is how to deal with the fact that there is evil in the world while the omnipoten God is believed to be good and caring. If God is good why would he allow evil things to happen?
+-   Even the rich and famous are rarely satisfied.
+-   According to Buddhist tradition: the mind naturally craves more in all situations. And all suffering arrives from craving.
+-   There are a variety of "natural law religions" that are popular today like communism, capitalism, and liberalism.
+-   Over the last 200 years, science has increasingly revealed that human behavior is determined by hormones, genes, and neurological synapses. If this is true, then for how much longer will we ignore that biology does not agree with the concept of free will?
+-   To describe how something happened means to reconstruct the series of specific events that led from one point to another.
+-   To describe why something happened means to find causal connections that led to this particular series of events to the exclusion of all others.
+-   The deeper your knowledge of a particular area of history, the harder it becomes to explain why one particular outcome occurred and not another.
+-   It is an inevitable rule of history that what seems obvious in hindsight is impossible to predict beforehand.
+-   The are level one and level two Chaotic Systems. Level one does not respond to predictions about it, like the weather and weather forecasts. Level two does respond to predictions about it, like the stock market and analyst reports about rising oil prices.
+-   There is no proof that history is working for the benefit of humans or that human well being increases overtime. It's good for the victors, but is it good for us all?
+-   The Scientific Revolution started in Europe around 500 years ago. The last 500 years have witnessed an unprecedented growth of human impact.
+-   One difference between religion and science is that science assumes humankind does not know the answers to many of life's biggest questions. Religion, however, assumes that the important stuff is already known. Science assumes human ignorance.
+-   Modern culture has been able to admit ignorance more than any previous culture.
+-   Previous cultures and belief systems compiled their theories using stories. Science compiles its theories using mathematics.
+-   The story of how Scottish Widows was founded is an awesome example of the power of probability.
+-   Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility. Science gives us power. The more useful that power, the better the science.
+-   The military arms race drives science forward in rapid fashion. The truth is war prompts many scientific discoveries.
+-   In the past, the best minds of the day worked on finding ways to give meaning to death. Today, our best minds work on preventing death through biological, hormonal, and genetic means. Science does not take death as an inevitability.
+-   The economic, religious, and political interests that impact the flow of money into scientific and technological research have a huge impact on the output of science.
+-   It is not enough to consider science in a vacuum. Economic and capitalistic interests, for example, determine what we research and what to do with the research findings.
+-   Why did Europeans discover and conquer the Americas? Why not the Chinese or those from India or the Middle East who possessed just as much knowledge and technology as the Europeans? The European ideology to explore the world was the primary difference.
+-   For most of human history, per capita production remained the same. Since the launch of capitalism, however, per capita production has skyrocketed.
+-   Modern capitalism has exploded the growth of humankind thanks to the creation of credit, which allows you to borrow money now because we collectively trust that the future will be better than the present.
+-   Adam Smith's brilliant insight about capitalism in The Wealth of Nations was that increasing private profits is the basis for increasing collective wealth and prosperity. In other words, by becoming richer you benefit everyone, not just yourself. Both parties get a bigger slice of pie. (Note: this only works if profits get reinvested, not hoarded.)
+-   For capitalism to work, profits must be reinvested in new production.
+-   The "religion" of capitalism says economic growth is the supreme because justice, freedom, and happiness requires economic growth.
+-   All credit is based on the idea that science and technology will advance. Scientists ultimately foot the bill of capitalism.
+-   The annual sugar intake of the average Englishman rose from nearly zero in the early 17th century to 18 pounds in the early 19th century.
+-   The life expectancy, child mortality, and calorie intake are significantly improved for the average person in 2014 compared to 1914, despite exponential population growth.
+-   Until the industrial revolution, human behavior was largely dictated by solar energy and plant growth. Day and night. Summer and winter. Everything was determined by man power and animal power, which were determined by food, which is determined by photosynthesis.
+-   "This is the basic lesson of evolutionary psychology: a need shaped in the wild continues to be felt subjectively even if it is no longer really necessary for survival and reproduction."
+-   Harlow's infant monkey studies from the 1950s (and a variety of followup studies) have shown that animals have strong psychological needs as well as purgative physical needs. Note to self: never disregard your psychological needs.
+-   Each year the United States population spends more money on diets than the amount needed to feed all the hungry in the rest of the world.
+-   Most people don't realize just how peaceful of the times are we live in.
+-   In recent years, more people die from suicide each year than from war and violent crime. The same can said for car accidents.
+-   Live a safe community, drive as little as possible, and love yourself. Violent local crime, car accidents, and suicide are some of the biggest killers of humans.
+-   War is at an all time low because the costs of war have increased because of nuclear weapons, the benefits of war have decreased because physical resources drive less of the economy and international trade is more lucrative than conquest, and the tightening of international connections because a worldwide culture is less likely to battle itself.
+-   Our view of the past is heavily influenced by recent events.
+-   Researchers have investigated nearly all aspects of history, but have rarely have asked whether historical changes have made humans happier.
+-   Nietzsche: "He who has a why to live can bear almost any how."
+-   If happiness is based on pleasurable feelings, then increasing our happiness is a matter of increases biochemical release. If happiness is based on meaning, then increasing our happiness is a matter of deluding ourselves about the meaning of our lives.
+-   One uncommonly cited benefit of religion: belief in the afterlife gives meaning to your life in the present.
+-   Buddhism has studied happiness for over 2,000 years. Interestingly, Buddhism shares many viewpoints on happiness with science. Most notably, that happiness results from processes within the body and not from the outside world.
+-   The Buddhist philosophy of happiness centers around the idea that you are not the events that happen to you, but you are also not the feelings you have. You are not your feelings. They are just feelings. Thus, if you understand this, you can release the needs to keep chasing the need to feel happy or to not feel angry or to not feel sad. In other words, you have to understand yourself.
+-   For close to 4 billion years, every organism developed according to evolution. But in recent decades, humans have begun to evolve according to intelligent design. In other words, there are people who would have been selected out of the gene pool millennia ago, but not today.
+-   Genetic engineering is allowing humans to break the laws of natural selection.
+-   The next stage of human history will not only involve biological and technological changes, but also changes in human consciousness and identity. Changes that are this fundamental will call the very term "human" into question.
+-   Many people think the question we should ask to guide our scientific pursuits is, "What do we want to become?" However, because we seem to be on the path to genetically engineering and programming nearly every facets of our wants, desires, and consciousness, the real question we should ask is, "What do we want to want?"
+-   In the past 1000 years, humans have evolved to take over the world and are on the verge of overcoming natural selection and becoming gods. Yet, we still seem unhappy in many ways and we are unsure of what we want. Is there anything more dangerous that dissatisfied and irresponsible gods who don't know what they want?
 
 
